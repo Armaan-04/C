@@ -1,0 +1,2 @@
+The GCD of 12 and 44 is 4
+The GCD of 66 and 34 is 2
