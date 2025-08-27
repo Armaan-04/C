@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/KIIT0001/Desktop/C/DAA/Lab1",
-      "program": "c:/Users/KIIT0001/Desktop/C/DAA/Lab1/build/Debug/outDebug",
+      "cwd": "c:/Users/KIIT0001/Desktop/C/ComputerNetworking/Lab5/MathService",
+      "program": "c:/Users/KIIT0001/Desktop/C/ComputerNetworking/Lab5/MathService/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
